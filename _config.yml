@@ -1,0 +1,23 @@
+name: Bombsheller
+favicon: null
+layout_spectrum: 0.2682819196488708
+typography_spectrum: 0.8729164635296911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2341809479985386
+  lightness: 0.9348338949494064
+  saturation: 0.9706791387870908
+  rhythmicContrast: 0.40208370611071587
+purpose: []
